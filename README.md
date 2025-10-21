@@ -1,6 +1,6 @@
 # Bienvenid@ al GitHub de SARI <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmV2NWU3aDg2cGVtdW5qeWhjbGRzNDNhcHQweDNpMTV3bmdkcDJ3OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/P5l28kbIfcuNpZZNN1/giphy.gif" width="50"/>
 
-![Baner de SARIxM9](Banner.png)
+![Baner de SARIxM9](banner.png)
 
 # 📗Descripción
 
